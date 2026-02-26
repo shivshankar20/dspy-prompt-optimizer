@@ -30,7 +30,9 @@ src/
 ├── metrics.py               ✅ Evaluation metrics
 └── optimizer.py             ✅ COPRO optimization logic
 
-optimize_prompt.py           ✅ Main optimization script
+optimize_prompt.py           ✅ Main optimization script (entry point)
+copro_optimizer.py           ✅ COPRO optimization runner
+mipro_optimizer.py           ✅ MIPROv2 optimization runner
 test_optimized.py            ✅ Testing script
 extract_baseline_prompt.py   ✅ Extract baseline prompts
 extract_optimized_prompt.py  ✅ Extract optimized prompts
