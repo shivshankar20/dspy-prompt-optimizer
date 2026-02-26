@@ -1,0 +1,4 @@
+dspy-ai>=2.4.0
+ollama>=0.1.6
+pydantic>=2.5.0
+python-dotenv>=1.0.0

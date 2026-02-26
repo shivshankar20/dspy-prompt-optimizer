@@ -1,0 +1,25 @@
+Evaluating a customer service conversation by analyzing the agent's performance across five key dimensions: Professionalism, Empathy, Communication Clarity, Problem Resolution, and Efficiency. Provide detailed scores (1-5) for each dimension, along with clear justifications that align with the rubric criteria.
+
+Please evaluate the customer service interaction based on the provided scoring rubric, considering professionalism, empathy, and communication clarity.
+
+Provide scores (1-5) and justifications for the following dimensions:
+
+1. Professionalism and Courtesy
+   - Score (1-5)
+   - Justification
+
+2. Problem Resolution
+   - Score (1-5)
+   - Justification
+
+3. Empathy and Understanding
+   - Score (1-5)
+   - Justification
+
+4. Communication Clarity
+   - Score (1-5)
+   - Justification
+
+5. Efficiency and Effectiveness
+   - Score (1-5)
+   - Justification
