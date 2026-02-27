@@ -1,0 +1,34 @@
+{
+  "baseline": {
+    "train": {
+      "avg_metric_score": 99.125,
+      "avg_mae": 0.6,
+      "avg_exact_matches": 2.125,
+      "num_examples": 8
+    },
+    "validation": {
+      "avg_metric_score": 102.0,
+      "avg_mae": 0.6000000000000001,
+      "avg_exact_matches": 2.0,
+      "num_examples": 2
+    }
+  },
+  "optimized": {
+    "train": {
+      "avg_metric_score": 99.75,
+      "avg_mae": 0.6000000000000001,
+      "avg_exact_matches": 2.25,
+      "num_examples": 8
+    },
+    "validation": {
+      "avg_metric_score": 116.0,
+      "avg_mae": 0.2,
+      "avg_exact_matches": 4.0,
+      "num_examples": 2
+    }
+  },
+  "improvement": {
+    "train_percent": 0.6305170239596469,
+    "validation_percent": 13.725490196078432
+  }
+}

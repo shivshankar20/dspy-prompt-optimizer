@@ -1,0 +1,14 @@
+{
+  "train": {
+    "avg_metric_score": 99.125,
+    "avg_mae": 0.6,
+    "avg_exact_matches": 2.125,
+    "num_examples": 8
+  },
+  "validation": {
+    "avg_metric_score": 102.0,
+    "avg_mae": 0.6000000000000001,
+    "avg_exact_matches": 2.0,
+    "num_examples": 2
+  }
+}

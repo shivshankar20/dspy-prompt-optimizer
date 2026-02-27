@@ -21,8 +21,6 @@ ENV/
 .env
 .env.*
 
-# DSPy / optimization outputs
-results/
 
 # IDE
 .vscode/
